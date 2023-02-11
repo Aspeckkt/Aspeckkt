@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://web.archive.org/web/20230101130849/https://komarev.com/ghpvc/?username=aspeckkt&label=Profile%20views&color=0e75b6&style=flat" alt="aspeckkt" /> </p>
-
-<p align="left"> <a href="https://web.archive.org/web/20230101130849/https://github.com/ryo-ma/github-profile-trophy"><img src="https://web.archive.org/web/20230101130849/https://github-profile-trophy.vercel.app/?username=aspeckkt" alt="aspeckkt" /></a> </p>
+<h3 align="center">A passionate frontend developer from France</h3>
 
 - 📫 How to reach me **geoffray.pellerin.pro@gmail.com**
 
