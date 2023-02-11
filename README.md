@@ -1,6 +1,6 @@
-<h3 align="center">A passionate frontend developer from France</h3>
-<br>
-👋
+<h3 align="center">A passionate frontend developer from France <br>
+👋</h3>
+
 <br>
 
 - 📫 How to reach me **geoffray.pellerin.pro@gmail.com**
