@@ -2,12 +2,10 @@
 <h3 align="center">A passionate frontend developer from France <br>
 👋</h3>
 
-<br>
-
 - 📫 How to reach me **geoffray.pellerin.pro@gmail.com**
 
 - ⚡ Fun fact **I love RTS and chess**
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@vagabond93250" target="blank"><img align="center" src="https://web.archive.org/web/20230101130849/https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vagabond93250" height="30" width="40" /></a>
